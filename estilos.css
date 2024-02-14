@@ -1,0 +1,37 @@
+
+
+*{
+    margin: 0;
+}
+body{
+    background-image: url(https://media.discordapp.net/attachments/1067185136740872192/1135149166864113684/Captura_de_pantalla_4318.png?ex=65db0f0b&is=65c89a0b&hm=a46e59164cb96afcda7f8282559af50b5a2825d4c2d2e703fff799f1d169a9fb&=&format=webp&quality=lossless&width=829&height=472);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.contenedor{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+}  
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+    padding-bottom: 5px;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+
+}
+
+#yesbt{
+    transform: translate(-100%,0);
+}
+
+#nobt{
+    position: absolute ;
+}
